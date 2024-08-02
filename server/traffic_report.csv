@@ -1,0 +1,3 @@
+"_id","start_location_id","end_location_id","distance","traffic_condition","__v","timestamp"
+"66aca9fe553d2ae531b213cf","66aca4c53e9a7156e780fec0","66aca5e63e9a7156e780fec3","5","high",0,"Fri Aug 02 2024 15:32:21 GMT+0530 (India Standard Time)"
+"66acaf1e2f78c6b7944e1493","66aca4c53e9a7156e780fec0","66aca5e63e9a7156e780fec3","3","moderate",0,"Fri Aug 02 2024 15:34:14 GMT+0530 (India Standard Time)"
